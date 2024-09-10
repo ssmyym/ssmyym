@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmyym)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ssmyym)](https://solved.ac/{ssmyym})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ssmyym)](https://solved.ac/{https://solved.ac/profile/ssmyym})
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
